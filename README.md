@@ -28,16 +28,16 @@
 
 ###
 
-<p align="left">Hi! I'm Murilo! A passionate programming student from Brazil<br><br>- 🔭 I’m studying technical high school in electronics at Fundação Liberato.<br>- 📚 I'm currently learning programming, as it's something that fascinates me. I'm taking a full-stack course in JavaScript.<br></p>
+<p align="left">Hi, my name is Murilo. I'm a 19-year-old Software Engineering student at Universidade La Salle, and I completed technical high school in Electronics at Fundação Liberato.<br></p>
 
 ###
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have advanced English skills. In the second year of my technical high school, I learned and had many practical experiences with the C language. Nowadays, I am learning and practicing JavaScript, TypeScript, and React. I really like using creativity to do things, I'm a perfectionist, I like to leave things in the best possible way, I also like to solve problems and create efficient solutions. 
+  - 💬 My journey into programming started with the C language, which I learned during my time at Liberato. This sparked my curiosity and passion for programming. Over time, I became especially interested in Mobile Development and Front-End, driven by personal goals and the exciting projects I’ve been involved in. 
 
-  - ⚡ In my free time, I enjoy spending time with my family, playing games with my friends, watching movies, and practicing sports like going to the gym, playing soccer, and walking. I think these activities help me improve my problem-solving skills and teamwork, which are crucial in both my studies and personal projects, in addition to having a healthy life. \o/
+  - ⚡ Today, I’m working in the DevOps field, with a focus on monitoring and security. I work daily with tools like Docker, Prometheus, Grafana, and Kubernetes, contributing to the reliability and observability of systems and applications. \o/
 </details>
 
 <h3 align="left">🛠 Technologies I've already used:</h3>
