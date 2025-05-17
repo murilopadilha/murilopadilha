@@ -38,6 +38,17 @@
   - 💬 My journey into programming started with the C language, which I learned during my time at Liberato. This sparked my curiosity and passion for programming. Over time, I became especially interested in Mobile Development and Front-End, driven by personal goals and the exciting projects I’ve been involved in. 
 
   - ⚡ Today, I’m working in the DevOps field, with a focus on monitoring and security. I work daily with tools like Docker, Prometheus, Grafana, and Kubernetes, contributing to the reliability and observability of systems and applications. \o/
+Technologies I’ve worked with:
+
+- Programming Languages: C, Python, Bash, JavaScript
+
+- Frameworks: React, React Native
+
+- Databases: PostgreSQL
+
+- Infrastructure & Tools: Docker, Prometheus, Grafana, Linux
+
+- Version Control: Git/GitHub
 </details>
 
 <h3 align="left">🛠 Technologies I've already used:</h3>
