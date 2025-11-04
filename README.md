@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Hi, my name is Murilo. I'm a 19-year-old Software Engineering student at Universidade La Salle, and I completed technical high school in Electronics at Fundação Liberato.<br></p>
+<p align="left">Hi, my name is Murilo. I'm a 19 years old Software Engineering student at Universidade La Salle, and I completed technical high school in Electronics at Fundação Liberato.<br></p>
 
 ###
 
